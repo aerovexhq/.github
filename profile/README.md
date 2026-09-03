@@ -4,9 +4,9 @@
 
 **Unified 3D Simulation, Digital Twin & Mission Operations Platform for Autonomous Robotics**
 
-[![Website](https://img.shields.io/badge/Website-aerovex.larvance.com-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://aerovex.larvance.com)
-[![Status](https://img.shields.io/badge/Platform-Active%20Development-34d399?style=flat-square)](https://aerovex.larvance.com)
-[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Enterprise-a855f7?style=flat-square)](https://aerovex.larvance.com)
+[![Website](https://img.shields.io/badge/Website-aerovex.net-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://aerovex.net)
+[![Status](https://img.shields.io/badge/Platform-Active%20Development-34d399?style=flat-square)](https://aerovex.net)
+[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Enterprise-a855f7?style=flat-square)](https://aerovex.net)
 
 <p align="center">
   <em>Bridging visual robotics design, high-fidelity physics simulation, and real-world hardware teleoperation across aerial, ground, and multi-domain autonomous systems.</em>
@@ -87,7 +87,7 @@ From visual kinematic modeling and digital twin world generation to real-time ha
 
 ## 🚀 Getting Started & Contact
 
-- 🌐 **Web Portal & Documentation**: [aerovex.larvance.com](https://aerovex.larvance.com)
+- 🌐 **Web Portal & Documentation**: [aerovex.net](https://aerovex.net)
 - 📧 **Enterprise & Support**: [founder@aerovex.net](mailto:founder@aerovex.net)
 
 ---
