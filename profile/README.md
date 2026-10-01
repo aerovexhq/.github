@@ -24,7 +24,69 @@ From visual kinematic modeling and digital twin world generation to real-time ha
 
 ---
 
+## 🏛️ Flagship Platforms & Engines
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform / Engine</th>
+      <th>Discipline</th>
+      <th>Primary Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/aerovex">Aerovex Workstation</a></b></td>
+      <td>Workstation Platform</td>
+      <td>Unified 3D geospatial digital twin, Cesium terrain, CAD studio, and mission planner.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/chronos">Chronos</a></b></td>
+      <td>Physics & Multi-World Sim</td>
+      <td>High-throughput multi-world 6-DOF simulation kernel, 8 dynamics solvers & aerodynamics.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/kestrel">Kestrel</a></b></td>
+      <td>Avionics & Autopilot</td>
+      <td>Hard real-time embedded flight control OS, 24-state EKF & multi-vehicle guidance.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/phonon">Phonon</a></b></td>
+      <td>Circuit & EDA Simulation</td>
+      <td>Physically rigorous electro-thermal circuit simulator and transistor-level SPICE solver.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/axiom">Axiom</a></b></td>
+      <td>Silicon & Digital EDA</td>
+      <td>High-performance in-RAM HDL engine, Cranelift JIT simulator & silicon telemetry.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/sonon">Sonon</a></b></td>
+      <td>Acoustics & Voice</td>
+      <td>Minimalist robotics-aimed acoustic DSP, few-shot phrase spotting & streaming speech engine.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/vexview">Vexview</a></b></td>
+      <td>Linux Studio Utility</td>
+      <td>Minimalist media & video studio inspector, stream trimming & image editing engine.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/vexrec">Vexrec</a></b></td>
+      <td>Linux Studio Utility</td>
+      <td>Screen and audio recording with Wayland PipeWire, loopback audio & camera PiP.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/aerovexhq/appify">Appify</a></b></td>
+      <td>Desktop Packaging</td>
+      <td>Convert any web application into a high-performance native desktop app with Rust backend.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## ⚡ Core Capabilities
+
 
 <table>
   <tr>
