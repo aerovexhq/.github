@@ -80,8 +80,26 @@ From visual kinematic modeling and digital twin world generation to real-time ha
       <td>Desktop Packaging</td>
       <td>Convert any web application into a high-performance native desktop app with Rust backend.</td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/vexel-lang">Vexel</a></b></td>
+      <td>Systems Programming Language</td>
+      <td>Statically-typed compiled systems and WebAssembly language with LLVM 18 backend and complete toolchain.</td>
+    </tr>
   </tbody>
 </table>
+
+---
+
+## ⚡ Sister Ecosystem: Vexel Programming Language (`@vexel-lang`)
+
+**Vexel** is an independent compiled systems and WebAssembly programming language developed under Aerovex HQ, engineered for LLVM native performance, zero-GC memory safety, and first-class developer tooling:
+
+- **Compiler & Toolchain**: LLVM 18 native and WebAssembly code generation with static type inference.
+- **Package Ecosystem**: High-speed package registry and toolchain CLI (`vxm`).
+- **Developer Experience**: Official Language Server Protocol (`lsp`), VS Code extension, and JetBrains IDE plugin suite.
+- **Web & Multi-Platform Runtimes**: Client-side WebAssembly DOM runtime and native cross-platform packages.
+- **Dedicated Organization**: Hosted independently at [**@vexel-lang**](https://github.com/vexel-lang) to serve the broader software engineering community.
+
 
 ---
 
