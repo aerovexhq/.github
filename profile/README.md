@@ -51,6 +51,11 @@ From visual kinematic modeling and digital twin world generation to real-time ha
       <td>Hard real-time embedded flight control OS, 24-state EKF & multi-vehicle guidance.</td>
     </tr>
     <tr>
+      <td><b><a href="https://github.com/aerovexhq/atoma">Atoma</a></b></td>
+      <td>Quantum & Materials CAD</td>
+      <td>3D interactive quantum, atomistic, molecular & materials CAD studio in pure safe Rust.</td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/aerovexhq/phonon">Phonon</a></b></td>
       <td>Circuit & EDA Simulation</td>
       <td>Physically rigorous electro-thermal circuit simulator and transistor-level SPICE solver.</td>
