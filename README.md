@@ -11,6 +11,7 @@ Aerovex develops next-generation 3D simulation engines, digital twin environment
 - **Phonon**: Physically rigorous electro-thermal circuit simulator and transistor-level SPICE solver.
 - **Axiom**: High-performance in-RAM HDL engine, Cranelift JIT simulator and silicon telemetry.
 - **Sonon**: Minimalist robotics-aimed acoustic DSP, few-shot phrase spotting and streaming speech engine.
+- **Kortex**: Hardware-accelerated edge LLM inference kernel, bounded O(1) attention streaming, and mathematical KV-cache compression in Rust.
 - **Vexview**: Minimalist media and video studio inspector, stream trimming and image editing engine.
 - **Vexrec**: Screen and audio recording with Wayland PipeWire, loopback audio and camera PiP.
 - **Appify**: Convert web applications into native desktop applications with Rust backend.
