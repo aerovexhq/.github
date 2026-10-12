@@ -71,7 +71,7 @@ From visual kinematic modeling and digital twin world generation to real-time ha
       <td>Minimalist robotics-aimed acoustic DSP, few-shot phrase spotting & streaming speech engine.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/larvance/kortex">Kortex</a></b></td>
+      <td><b><a href="https://github.com/aerovexhq/kortex">Kortex</a></b></td>
       <td>Edge AI & Cognition</td>
       <td>Hardware-accelerated edge LLM inference runtime, bounded O(1) attention streaming & mathematical KV-cache compression in Rust.</td>
     </tr>
